@@ -92,7 +92,6 @@ const App = () => {
         dispatch(reset());
     };
 
-    // TODO:beep file
     return (
         <div className="clock w-full max-w-lg">
             <Header />
